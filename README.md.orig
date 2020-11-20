@@ -1,0 +1,8 @@
+# merge-conflicts
+This is a README file.
+<<<<<<< HEAD
+
+This statement is added by Developer A.
+=======
+This statement is added by Developer B.
+>>>>>>> 64e91ee (Commit README.md file from Developer B)
